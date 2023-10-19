@@ -1,0 +1,15 @@
+.alertContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.alert {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 80%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.2);
+}
